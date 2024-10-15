@@ -6,7 +6,9 @@ Enhances MIUI/HyperOS for better battery backup and performance.
 
 ## Download 📲
 
-[Click here](https://www.pling.com/p/1723021/) to download the MemeUI Enhancer.
+[Click here](https://www.pling.com/p/1723021/) to download the official MemeUI Enhancer module with monetization SDK included.
+    
+[Check releases](/releases) to download this module without monetization SDK.
 
 ## Notes 📝
 
