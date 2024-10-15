@@ -26,6 +26,6 @@ Enhances MIUI/HyperOS for better battery backup and performance.
 
 - [Uperf](https://github.com/yc9559/uperf) (Apache License 2.0)
 
-## Disclosure 🔓
+## Monetization-free experience 🚫
 
-[Click here](https://telegra.ph/Disclosure-09-16) to view the disclosure.
+The original author of this module, [iamlooper](https://github.com/iamlooper) had included Internet bandwidth monetization SDK ([PacketSDK](https://www.packetsdk.com/)) binaries into his module, and it is clearly noted in his repository ([original disclosure](https://telegra.ph/Disclosure-09-16)). Although I am respectful to him for this module, I don't want any other 3rd party programs constantly running in the background without any easy ways to control them.
